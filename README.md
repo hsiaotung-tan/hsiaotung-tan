@@ -1,6 +1,7 @@
 ### Hey 👋, I'm Hsiao-Tung Tan.
 
 ![](https://komarev.com/ghpvc/?username=hsiaotung-tan)
+
 <a href="https://github.com/hsiaotung-tan/">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -21,11 +22,3 @@
 - 💼 I am an **obsessive-compulsive disorder**.
 - 💬 If you have any questions, **just ask me**.
 - This is my email: **reyes.tan@foxmail.com**.
-
-
-
-
-📊 **My recent programming status:**
-
-
-**If you like this readme file, please give me star! ❤️**

@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Hsiao-Tung Tan.
 
-
+![](https://komarev.com/ghpvc/?username=hsiaotung-tan)
 <a href="https://github.com/hsiaotung-tan/">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>

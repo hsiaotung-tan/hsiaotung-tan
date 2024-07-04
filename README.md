@@ -6,9 +6,6 @@
 
 
 
-<br />
-<br />
-
 - I am a **Programming rookie** 
 
 
